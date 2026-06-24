@@ -76,9 +76,6 @@ Run top-to-bottom; random seeds are set for reproducibility.
 - **Report:** `Final_Report.docx` (this repo)
 - **Presentation video:** [insert link]
 
-## References
-
-Full citation list (IEEE style) is in the written report. Key sources include Altman's foundational Z-score model [1], Breiman's Random Forest [2], and recent systematic reviews of ML in bankruptcy prediction [3].
 
 ---
 *Final summative project — Introduction to Machine Learning*
